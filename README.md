@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MartinRo221
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning html, css and javascrip
-- 💞️ I’m looking to collaborate on any project to lern
+- 👋 Hi, I’m @MartinRo221.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning html, css and javascrip.
+- 💞️ I’m looking to collaborate on any project to lern.
 
 
 <!---
